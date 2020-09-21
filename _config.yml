@@ -1,24 +1,23 @@
 # Site settings
-title: 冷小冰的博客                                                  # 博客的标题
-SEOTitle: 冷小冰的博客 | Bing Blog                                   # 显示在浏览器上搜索的时候显示的标题
+title: wangyang                                                    # 博客的标题
+SEOTitle: wangyang的博客 | Bing Blog                                 # 显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-coffee.jpeg                                # 显示在首页的背景图片
-email: tn787681084@gmail.com                                       # 邮箱地址
+email:                                                             # 邮箱地址
 description: "Every failure is leading towards success."           # 网站介绍
-keyword: "BY, BY Bing, 冷小冰的博客, lengxiaobing, 冷小冰, Java"     # 关键词
-url: "https://lengxiaobing.github.io/"                             # 博客的地址
+keyword: "BY, BY Bing, wangyang的博客, Java"     # 关键词
+url: "https://wangyang1619.github.io/"                             # 博客的地址
 baseurl: ""                                                        # 博客的托管地址
-github_repo: "https://github.com/Lengxiaobing/lengxiaobing.github.io.git" # git代码仓库
+github_repo: "https://github.com/wangyang1619/wangyang1619.github.io" # git代码仓库
 
 # Publish posts or collection documents with a future date.
 future: true                                                       #发布未来日期的文档。
 
 # SNS settings
 RSS: false
-weibo_username:     5629222395
-zhihu_username:     leng-xiao-bing-63
-github_username:    Lengxiaobing
+ 
+github_username:    wangyang1619
 jianshu_username:   f5acf99d021c
-gitbook_username:   lengxiaobing
+gitbook_username:   wangyang
 #twitter_username:
 #facebook_username:
 #linkedin_username:
@@ -59,16 +58,16 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-#disqus_username: 冷小冰
+#disqus_username:  wangyang
 
 # Gitalk
 gitalk:
   enable: true                                              #是否开启Gitalk评论
   clientID: 3cee51d0a832088f7db7                            #生成的clientID
   clientSecret: 1e82ac7a879bd6c75dc9b2b5b93f17b3a37faf0d    #生成的clientSecret
-  repo: lengxiaobing.github.io                              #仓库名称
-  owner: Lengxiaobing                                       #github用户名
-  admin: Lengxiaobing
+  repo: wangyang1619.github.io                              #仓库名称
+  owner: wangyang                                          #github用户名
+  admin: wangyang
   distractionFreeMode: true                                 #是否启用类似FB的阴影遮罩
 
 # Netease settings
@@ -77,11 +76,11 @@ netease_comment: false
 # 访问统计
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: e17c2f7ae27d3d0d9000180aca5ac72c
+#ba_track_id: e17c2f7ae27d3d0d9000180aca5ac72c
 
 # Google Analytics
-ga_track_id: 'UA-135067536-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto                          # 自定义的域名，默认的是 auto
+#ga_track_id: 'UA-135067536-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto                          # 自定义的域名，默认的是 auto
 
 
 # Sidebar settings
